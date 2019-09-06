@@ -1,5 +1,5 @@
-CONNECTED-FOUR
-==============
+CONNECT-FOUR
+============
 
 It is a web version of the [Connect Four](https://en.wikipedia.org/wiki/Connect_Four) game written in [P5JS](https://p5js.org/).
 
