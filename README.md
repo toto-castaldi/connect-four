@@ -1,6 +1,9 @@
 CONNECTED-FOUR
 ==============
 
+It is a web version of the [Connect Four](https://en.wikipedia.org/wiki/Connect_Four) game written in [P5JS](https://p5js.org/).
+
+[Here is the online version](https://toto-castaldi.github.io/connect-four/index.html).
 
 ### Develop
 
