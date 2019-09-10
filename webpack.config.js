@@ -12,7 +12,7 @@ module.exports = {
     new HtmlWebpackPlugin({
       title: 'Connect Four',
       template: 'src/index.html',
-
+      repo: 'https://github.com/toto-castaldi/connect-four'
     })
   ]
 

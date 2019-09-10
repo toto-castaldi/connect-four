@@ -18,13 +18,5 @@ It requires [NodeJS](https://nodejs.org/) (developed with v10.16.0, you can use 
     > npm run build
     > google-chrome dist/index.html
     
-### TODO
 
-* music
-* history of wins
-* highlits winning combination
-* enhance controls : show/hide fps, use/stop sound
-
-
-> Written with [StackEdit](https://stackedit.io/).
-
+> Written with [StackEdit](https://stackedit.io/)

@@ -5,6 +5,8 @@ import './style.css';
 import img from './Connect4Board.png';
 import soundPlaceCoinWave from './351564__bertrof__game-sound-correct-with-delay.wav';
 import soundSuccessWave from './109662__grunz__success.wav';
+import '../node_modules/github-fork-ribbon-css/gh-fork-ribbon.css';
+
 
 new p5((sketch) => {
 

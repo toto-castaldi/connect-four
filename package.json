@@ -13,6 +13,7 @@
   "author": "",
   "license": "GPLv3",
   "dependencies": {
+    "github-fork-ribbon-css": "^0.2.3",
     "p5": "^0.9.0"
   },
   "devDependencies": {
